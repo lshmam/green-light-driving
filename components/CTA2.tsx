@@ -36,7 +36,7 @@ const CTA2 = () => {
           width="100%"
           height="100%"
           style={{ border: 0, borderRadius: "8px" }}
-          allowFullScreen=""
+          allowFullScreen // <-- THIS IS THE FIX
           loading="lazy"
           referrerPolicy="no-referrer-when-downgrade"
         ></iframe>
