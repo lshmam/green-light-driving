@@ -47,10 +47,10 @@ const Hero4 = () => {
             {/* Call to action button in header */}
             <div className="hidden md:flex">
               <a
-                href="tel:+16047511404"
+                href="tel:+12366626363"
                 className="inline-flex items-center justify-center px-6 py-3 font-sans text-base font-semibold leading-6 transition-all duration-200 border-2 border-white rounded-full text-white hover:bg-white hover:text-black focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white focus:ring-offset-black"
               >
-                +1 604-751-1404
+                +1 236-662-6363
               </a>
             </div>
           </div>
@@ -81,7 +81,7 @@ const Hero4 = () => {
           Let's get you driving today
         </h1>
         <p className="mt-6 font-sans text-lg font-normal text-white text-opacity-80 max-w-2xl">
-          We provide high-quality driving lessons in Surrey & Delta BC
+          We provide high-quality driving lessons in Surrey, Delta & Lower Mainland
         </p>
         <div className="flex items-center justify-center mt-10">
           <a

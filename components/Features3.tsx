@@ -52,7 +52,7 @@ const ResourceCard: React.FC<ResourceCardProps> = ({
         <p>{description}</p>
       </CardContent>
       <CardFooter className="flex justify-center">
-        <a href="tel:+16047511404">
+        <a href="tel:+12366626363">
           <Button className="text-white hover:text-white hover:bg-zinc-800 p-3">
             Book Today
           </Button>

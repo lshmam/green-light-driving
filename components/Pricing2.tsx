@@ -50,7 +50,7 @@ const PricingCard: React.FC<PricingCardProps> = ({
       ))}
     </CardContent>
     <CardFooter className="pt-6 mt-auto">
-      <a href="tel:+16047511404" className="w-full">
+      <a href="tel:+12366626363" className="w-full">
         <Button
           className={`w-full py-6 text-sm font-medium transition-colors ${
             isPopular
@@ -80,7 +80,7 @@ const Pricing2 = () => {
     },
     {
       title: "5 Lessons",
-      price: "110",
+      price: "215",
       features: [
         "5 hours of lessons",
         "Practice material provided",
@@ -91,7 +91,7 @@ const Pricing2 = () => {
     },
     {
       title: "10 Lessons",
-      price: "550",
+      price: "420",
       features: [
         "10 hours of lessons",
         "Comprehensive practice materials",

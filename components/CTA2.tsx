@@ -13,7 +13,7 @@ const CTA2 = () => {
           a confident driver.
         </p>
         <div className="flex flex-col sm:flex-row items-center gap-4 justify-center mb-4">
-          <a href="tel:+16047511404">
+          <a href="tel:+12366626363">
             <Button className="bg-white text-black hover:bg-gray-100 px-8 py-6 rounded-full flex items-center justify-center gap-2">
               <Phone className="w-4 h-4" />
               Give us a call
